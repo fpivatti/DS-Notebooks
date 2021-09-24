@@ -1,2 +1,2 @@
 # DS-Notebooks
-Etatística Descritiva em Python
+1-Estatística Descritiva em Python
